@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b82849ab3d0d914896301ec88dc9d39, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/Data.xlsx
+  WorksheetName: Character
+  dataArray:
+  - id: 10101
+    name: "\uAC74\uD0DC\uB2D8\uC758 \uB9C8\uB204\uB77C\uB4E4"
+    title: "\uAC13\uAC9C\uB300\uCC45\uC704\uC6D0\uD68C"
+    image: Female_01
+    description: "\uC5EC\uC790_\uAE30\uBCF8\uD45C\uC815"
+  - id: 10102
+    name: "\uAC74\uD0DC\uB2D8\uC758 \uB9C8\uB204\uB77C\uB4E4"
+    title: "\uAC13\uAC9C\uB300\uCC45\uC704\uC6D0\uD68C"
+    image: Female_02
+    description: "\uC5EC\uC790_\uB2F9\uD669"
+  - id: 10103
+    name: "\uAC74\uD0DC\uB2D8\uC758 \uB9C8\uB204\uB77C\uB4E4"
+    title: "\uAC13\uAC9C\uB300\uCC45\uC704\uC6D0\uD68C"
+    image: Female_03
+    description: "\uC5EC\uC790_\uD589\uBCF5\uB208\uBB3C"
+  - id: 10104
+    name: "\uAC74\uD0DC\uB2D8\uC758 \uB9C8\uB204\uB77C\uB4E4"
+    title: "\uAC13\uAC9C\uB300\uCC45\uC704\uC6D0\uD68C"
+    image: Female_04
+    description: "\uC5EC\uC790_\uC218\uC90D\uC74C"
+  - id: 10201
+    name: "\uCEE4\uC5EC\uC6B4 \uAC74\uD0DC\uB2D8"
+    title: "\uB9DD\uAC9C\uB300\uCC45\uC704\uC6D0\uD68C"
+    image: male_01
+    description: "\uB0A8\uC790_\uAE30\uBCF8\uD45C\uC815"
+  - id: 10202
+    name: "\uCEE4\uC5EC\uC6B4 \uAC74\uD0DC\uB2D8"
+    title: "\uB9DD\uAC9C\uB300\uCC45\uC704\uC6D0\uD68C"
+    image: male_02
+    description: "\uB0A8\uC790_\uD654\uB09C\uD45C\uC815"
